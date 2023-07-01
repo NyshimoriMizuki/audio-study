@@ -1,3 +1,3 @@
-# Audio Study
+# Audio Study - [ Python ]
 
-This is a study to i learn how get and store audio input with python and rust.
+This is a study to i learn how get and store audio input with python.
