@@ -1,2 +1,5 @@
 venv
 .vscode
+target
+
+*.lock
